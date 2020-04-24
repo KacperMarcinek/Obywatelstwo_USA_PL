@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Obywatelstwo</string>
+    <string name="odpowiedz_button">Odpowiedź</string>
+
+    //Pytania
+    <string-array name="pytania">
+        <item>Co jest najważniejszym prawem Stanów Zjednoczonych?</item>
+        <item>Jaka jest rola Konstytucji?</item>
+        <item>Idea samo-rządu jest umieszczona w pierwszych trzech słowach Konstytucji. Jakie to słowa?</item>
+        <item>Co to jest poprawka?</item>
+        <item>Jak nazywamy pierwszych 10 poprawek do Konstytucji?</item>
+        <item>Wymień JEDNO prawo wolności zagwarantowane przez Pierwszą Poprawkę?</item>
+        <item>Ile poprawek wprowadzono do Konstytucji?</item>
+        <item>Co dała Deklaracja Niepodległości?</item>
+        <item>Jakie są DWA prawa w Deklaracji Niepodległości?</item>
+        <item>Co oznacza wolność religii?</item>
+        <item>Jaki jest system ekonomiczny w Stanach Zjednoczonych?</item>
+        <item>Co to jest "zasada prawa"?</item>
+        <item>Wymień JEDNĄ z części/gałęzi naszego rządu.</item>
+        <item>Co powstrzymuje jedną część rządu, żeby nie była zbyt dominująca?</item>
+        <item>Kto jest naczelnikiem władzy wykonawczej?</item>
+        <item>Kto ustanawia prawa federalne?</item>
+        <item>Z jakich DWÓCH części składa sie Kongres?</item>
+        <item>Ilu senatorów jest w Kongresie?</item>
+        <item>Na ile lat wybieramy Senatora?</item>
+        <item>Wymień jednego z Senatorów naszego stanu.</item>
+        <item>Ilu ma członków Izba Reprezentantów?</item>
+        <item>Na ile lat wybieramy członka Izby Reprezentantów?</item>
+        <item>Wymień Kongresmena z Twojego regionu.</item>
+        <item>Kogo reprezentuje Senator?</item>
+        <item>Dlaczego niektóre stany mają więcej członków w Izbie Reprezentantów?</item>
+        <item>Na ile lat wybieramy Prezydenta?</item>
+        <item>W jakim miesiącu głosujemy na Prezydenta?</item>
+        <item>Jak nazywa się obecny Prezydent Stanów Zjednoczonych?</item>
+        <item>Jak nazywa się obecny Vice-Prezydent Stanów Zjednoczonych?</item>
+        <item>Jeżeli Prezydent nie może rządzić, kto zostaje jego następcą?</item>
+        <item>Jeżeli Prezydent i Vice-Prezydent nie mogą rządzić, kto zostaje następcą?</item>
+        <item>Kto jest naczelnym wodzem armii U.S.A.?</item>
+        <item>Kto podpisuje ustawy, które stają się prawem?</item>
+        <item>Kto wetuje ustawy?</item>
+        <item>Co robi Gabinet Prezydenta?</item>
+        <item>Wymień DWIE posady w randze Gabinetu.</item>
+        <item>Co robi władza sądownicza?</item>
+        <item>Jaki jest najwyższy Sąd w Stanach Zjednoczonych?</item>
+        <item>Ilu jest Sędziów Sądu Najwyższego</item>
+        <item>Kto jest przewodniczącym Sądu Najwyższego?</item>
+        <item>Według naszej Konstytucji, niektóre kompetencje należą do rządu federalnego. Wymień JEDNĄ z nich.</item>
+        <item>Według naszej Konstytucji, niektóre kompetencje należą do stanu, Wymień JEDNĄ z nich.</item>
+        <item>Kto jest Gubernatorem naszego stanu?</item>
+        <item>Jak nazywa się stolica naszego stanu?</item>
+        <item>Jakie są dwie główne partie polityczne w Stanach Zjednoczonych?</item>
+        <item>Która partia polityczna jest partią obecnego Prezydenta?</item>
+        <item>Jak nazywa się Przewodniczący(a) Izby Reprezentantów?</item>
+        <item>Są cztery poprawki do Konstytucji, dotyczące tego kto może głosować. Opisz JEDNĄ z nich.</item>
+        <item>Wymień JEDEN z obowiązków, które dotyczą tylko obywateli Stanów Zjednoczonych.</item>
+        <item>Wymień JEDNO prawo dotyczące tylko obywateli Stanów Zjednoczonych.</item>
+        <item>Wymień DWA prawa, które dotyczą każdego mieszkańca Stanów Zjednoczonych.</item>
+        <item>W stosunku do kogo okazujemy lojalność, kiedy wypowiadamy Ślubowanie na Wierność Narodu?</item>
+        <item>Wymień JEDNO z przyrzeczeń, które składasz w czasie przysięgi na wierność Stanów Zjednoczonych.</item>
+        <item>Ile lat muszą mieć obywatele, żeby mogli głosować na Prezydenta?</item>
+        <item>Wymień DWA sposoby, w jakie Amerykanie mogą uczestniczyć w demokracji.</item>
+        <item>Kiedy jest ostatni dzień aby wysłać rozliczenie podatkowe?</item>
+        <item>Kiedy wszyscy mężczyźni powinni zarejestrować się do wojska?</item>
+        <item>Wymień JEDEN powód, dla którego koloniści przybyli do Ameryki?</item>
+        <item>Kto mieszkał w Ameryce zanim przybyli Europejczycy?</item>
+        <item>Jaka grupa ludzi została przywieziona do Ameryki i sprzedana jako niewolnicy?</item>
+        <item>Dlaczego Koloniści walczyli z Brytyjczykami?</item>
+        <item>Kto napisał Deklarację Niepodległości?</item>
+        <item>Kiedy została przyjęta Deklaracja Niepodległości?</item>
+        <item>Było 13 oryginalnych stanów. Wymień TRZY.</item>
+        <item>Co działo się podczas Konwencji Konstytucyjnej?</item>
+        <item>Kiedy Konstytucja została napisana?</item>
+        <item>Pismo „The Federalist Papers” drukowało odezwy wspierające uchwalenie Konstytucji. Podaj imię jednego z autorów tego pisma.</item>
+        <item>Z czego jest słynny Benjamin Franklin?</item>
+        <item>Który prezydent jest nazwany "Ojcem Stanów Zjednoczonych"?</item>
+        <item>Kto był pierwszym prezydentem Stanów Zjednoczonych?</item>
+        <item>Jakie terytorium Stany Zjednoczone kupiły od Francji w 1803r?</item>
+        <item>Wymień JEDNĄ z wojen, w których walczyły Stany Zjednoczone w latach 1800-nych.</item>
+        <item>Wymień wojnę Stanów Zjednoczonych pomiędzy Północą a Południem.</item>
+        <item>Wymień JEDEN z problemów, które doprowadziły do Wojny Secesyjnej.</item>
+        <item>Wymień JEDNA z ważnych rzeczy, którą zrobił Abraham Lincoln.</item>
+        <item>Co dała Proklamacja Emancypacji?</item>
+        <item>Co zrobiła Susan B. Anthony?</item>
+        <item>Wymień JEDNĄ z wojen, w której walczyły Stany Zjednoczone w latach 1900-nych.</item>
+        <item>Kto był Prezydentem w czasie I Wojny Światowej?</item>
+        <item>Kto był Prezydentem w czasie Wielkiej Depresji i II Wojny Światowej?</item>
+        <item>Z kim walczyły Stany Zjednoczone w czasie II Wojny Światowej?</item>
+        <item>Zanim Eisenhower został Prezydentem był generałem. W czasie której wojny?</item>
+        <item>W czasie Zimnej Wojny, o co martwiły się Stany Zjednoczone?</item>
+        <item>Jaki ruch próbował zakończyc dyskryminacje narodowościową?</item>
+        <item>Co zrobił Martin Luther King Jr.?</item>
+        <item>Jaka ważna rzecz wydarzyła się w Stanach Zjednoczonych w 11 września 2001 roku?</item>
+        <item>Wymień JEDNO z Indiańskich plemion w Stanach Zjednoczonych.</item>
+        <item>Wymień JEDNĄ z dwóch najdłuższych rzek w Stanach Zjednoczonych.</item>
+        <item>Jaki ocean jest na zachodniej części Stanów Zjednoczonych?</item>
+        <item>Jaki ocean jest na wschodniej części Stanów Zjednoczonych?</item>
+        <item>Wymień JEDNO z terytoriów Stanów Zjednoczonych.</item>
+        <item>Wymień JEDEN ze stanów, który graniczy z Kanadą.</item>
+        <item>Wymień JEDEN ze stanów, który graniczy z Meksykiem.</item>
+        <item>Jakie miasto jest stolicą Stanów Zjednoczonych?</item>
+        <item>Gdzie znajduję się Statuła Wolności?</item>
+        <item>Dlaczego flaga ma 13 pasków?</item>
+        <item>Dlaczego flaga ma 50 gwiazd?</item>
+        <item>Jaka jest nazwa hymnu narodowego?</item>
+        <item>Kiedy obchodzimy Dzień Niepodległości?</item>
+        <item>Wymień DWA święta narodowe.</item>
+
+    </string-array>
+
+    //Odpowiedzi
+    <string-array name="odpowiedzi">
+        <item>Konstytucja</item>
+        <item>- Ustanawia rządy\n\n - Definiuje rządy\n\n - Chroni podstawowe prawa Amerykanów</item>
+        <item>My, Naród (We The People)</item>
+        <item>Zmiana do Konstytucji</item>
+        <item>Karta Praw</item>
+        <item>Wolność słowa</item>
+        <item>27</item>
+        <item>Ogłosiła naszą niepodległość od Wielkiej Brytanii.</item>
+        <item>- Życie\n\n - Wolność</item>
+        <item>Że można wyznawać każdą religię lub nie wyznawać żadnej</item>
+        <item>Gospodarka kapitalistyczna</item>
+        <item>- Każdy ma przestrzegać prawo\n\n - Nikt nie jest ponad prawem</item>
+        <item>Kongres</item>
+        <item>Kontrola i równowaga</item>
+        <item>Prezydent</item>
+        <item>Kongres</item>
+        <item>- Senat\n\n - Izba Reprezentantów</item>
+        <item>100</item>
+        <item>6 lat</item>
+        <item>Richard Durbin</item>
+        <item>435</item>
+        <item>2 lata</item>
+        <item>Janice R. Schakowsky</item>
+        <item>Wszystkich ludzi stanu</item>
+        <item>Ze względu na ilość ludności</item>
+        <item>4 lata</item>
+        <item>W listopadzie</item>
+        <item>Donald J. Trump</item>
+        <item>Mike Pence</item>
+        <item>Wiceprezydent</item>
+        <item>Przewodniczący(a) Izby Reprezentantów</item>
+        <item>Prezydent</item>
+        <item>Prezydent</item>
+        <item>Prezydent</item>
+        <item>Doradza Prezydentowi</item>
+        <item>- Sekretarz Stanu\n\n - Wiceprezydent</item>
+        <item>Tłumaczy prawa</item>
+        <item>Sąd Najwyższy</item>
+        <item>9</item>
+        <item>John Roberts</item>
+        <item>Drukowanie Pieniędzy</item>
+        <item>Szkolnictwo i edukacja</item>
+        <item>J. B. Pritzker</item>
+        <item>Springfield</item>
+        <item>- Demokratyczna\n\n - Republikańska</item>
+        <item>Republikańska</item>
+        <item>Nancy Pelosi</item>
+        <item>Mogą głosować obywatele 18-sto letni i starsi</item>
+        <item>Służyć jako ławnik</item>
+        <item>Głosować w federalnych wyborach</item>
+        <item>Wolność słowa\n\n Wolność wyznania</item>
+        <item>- Do flagi\n\n - Do Stanów Zjednoczonych</item>
+        <item>Że będę przestrzegać prawa Stanów Zjednoczonych</item>
+        <item>Od 18 wzwyż</item>
+        <item>- Mogą głosować\n\n - Mogą należeć do partii politycznej</item>
+        <item>15 kwietnia</item>
+        <item>Pomiędzy 18-tym a 26-tym rokiem życia</item>
+        <item>Za wolnością religijną</item>
+        <item>Amerykańscy Indianie</item>
+        <item>Ludzie z Afryki</item>
+        <item>Z powodu wysokich podatków</item>
+        <item>Thomas Jefferson</item>
+        <item>4 lipca 1776</item>
+        <item>- Nowy Jork\n\n  - Virginia\n\n  - Georgia</item>
+        <item>Konstytucja została napisana</item>
+        <item>1787</item>
+        <item>Alexander Hamilton</item>
+        <item>Dyplomata Stanów Zjednoczonych</item>
+        <item>George Washington</item>
+        <item>George Washington</item>
+        <item>Louisiana</item>
+        <item>Wojna Secesyjna (Wojna Domowa)</item>
+        <item>Wojna Secesyjna (Wojna Domowa)</item>
+        <item>Niewolnictwo</item>
+        <item>Dał wolność niewolnikom</item>
+        <item>Uwolniła niewolników</item>
+        <item>Walczyła o prawa kobiet</item>
+        <item>II Wojna Światowa</item>
+        <item>Woodrow Wilson</item>
+        <item>Franklin Roosevelt</item>
+        <item>- Japonia\n\n - Niemcy\n\n - Włochy</item>
+        <item>II Wojny Światowej</item>
+        <item>Komunizm</item>
+        <item>Ruch praw człowieka</item>
+        <item>Bronił praw człowieka</item>
+        <item>Terroryści zaatakowali Stany Zjednoczone</item>
+        <item>Apache</item>
+        <item>Mississipi River</item>
+        <item>Ocean Spokojny(Pacific Ocean)</item>
+        <item>Ocean Atlantycki(Atlantic Ocean)</item>
+        <item>Puerto Rico</item>
+        <item>Michigan</item>
+        <item>Arizona</item>
+        <item>Washington D.C.</item>
+        <item>Nowy Jork (w zatoce)</item>
+        <item>Ponieważ było 13 oryginalnych stanów</item>
+        <item>Ponieważ jest 50 stanów</item>
+        <item>The Star-Spangled Banner</item>
+        <item>4 lipca</item>
+        <item>- Memorial Day\n\n - Thanksgiving Day</item>
+
+    </string-array>
+
+</resources>
